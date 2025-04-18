@@ -1,11 +1,7 @@
 
 
-@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=VT323&display=swap');
-.vt323-regular {
-    font-family: "VT323", monospace;
-    font-weight: 400;
-    font-style: normal;
-  }
+
+
   
 #Video{
     position:fixed;
@@ -28,7 +24,7 @@
     height:200px;
 }
 .box1{
-	font-family: 'MinecraftiaRegular';  
+
     padding-right:10px;
     outline: 2px solid #353535;
     display:flex;
@@ -37,13 +33,13 @@
     background-color:rgb(142, 142, 142,0.5);
 }
 .text1{
-	font-family: 'MinecraftiaRegular';  
+
     text-align: left;
     position:relative;
     margin-top:30px;
 }
 .box2{
-	font-family: 'MinecraftiaRegular';  
+
     padding:3%;
     margin-top:20px;
     outline: 2px solid #353535;
@@ -53,7 +49,7 @@
     background-color:rgb(142, 142, 142,0.5);
 }
 .text2{
-	font-family: 'MinecraftiaRegular';  
+
     text-align: left;
  position:relative;
  margin-left:10px;
