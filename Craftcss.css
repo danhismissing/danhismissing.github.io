@@ -11,6 +11,8 @@
     min-height: 100%;
 }
 .content {
+  font-weight: normal;
+   font-style: normal;
     margin-top:20px;
     position: fixed;
     bottom: 10;
